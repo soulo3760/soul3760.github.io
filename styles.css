@@ -13,10 +13,6 @@ p.intro{
   font-size: 150%;
   color: blue;
 }
-h1.intro{
-  font-size: 75%;
-  color:blue;
-}
 .author{
 column-rule-color:palegreen;
 background-color:blue;
@@ -34,8 +30,10 @@ main {
       width: 30px;
       float:right;
       position: fixed;
-      padding-left:20
+      padding-left:20;
         height: : 100%;
+        background-image: repeating-linear-gradient(10);
+        background-size: cover;
 }
 .column {
     width: 350px;
