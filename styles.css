@@ -39,4 +39,6 @@ main {
     width: 350px;
     float:right;
     font-size: 15px;
+    background-color: white;
+    text-align:center;
   }
